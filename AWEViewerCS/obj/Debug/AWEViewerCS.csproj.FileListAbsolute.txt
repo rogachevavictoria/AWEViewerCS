@@ -1,0 +1,15 @@
+D:\!Study\SQL\lab 7\AWEViewerCS\bin\Debug\AWEViewerCS.exe.config
+D:\!Study\SQL\lab 7\AWEViewerCS\bin\Debug\AWEViewerCS.exe
+D:\!Study\SQL\lab 7\AWEViewerCS\bin\Debug\AWEViewerCS.pdb
+D:\!Study\SQL\lab 7\AWEViewerCS\obj\Debug\AWEViewerCS.csprojAssemblyReference.cache
+D:\!Study\SQL\lab 7\AWEViewerCS\obj\Debug\AWEViewerCS.EmployeeViewer.resources
+D:\!Study\SQL\lab 7\AWEViewerCS\obj\Debug\AWEViewerCS.Logon.resources
+D:\!Study\SQL\lab 7\AWEViewerCS\obj\Debug\AWEViewerCS.Main.resources
+D:\!Study\SQL\lab 7\AWEViewerCS\obj\Debug\AWEViewerCS.Properties.Resources.resources
+D:\!Study\SQL\lab 7\AWEViewerCS\obj\Debug\AWEViewerCS.ReportGenerator.resources
+D:\!Study\SQL\lab 7\AWEViewerCS\obj\Debug\AWEViewerCS.ReportGeneratorHelp.resources
+D:\!Study\SQL\lab 7\AWEViewerCS\obj\Debug\AWEViewerCS.csproj.GenerateResource.cache
+D:\!Study\SQL\lab 7\AWEViewerCS\obj\Debug\AWEViewerCS.csproj.CoreCompileInputs.cache
+D:\!Study\SQL\lab 7\AWEViewerCS\obj\Debug\AWEViewerCS.exe
+D:\!Study\SQL\lab 7\AWEViewerCS\obj\Debug\AWEViewerCS.pdb
+D:\!Study\SQL\lab 7\AWEViewerCS\obj\Debug\AWEViewerCS.EmployeeDetails.resources
